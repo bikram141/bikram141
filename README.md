@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bikram keshari lenka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bikram keshari lenka" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/bikram_keshari_lenka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bikram_keshari_lenka/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bikram-keshari-lenka-b1199b1a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bikram keshari lenka" height="30" width="40" /></a>
+<a href="https://www.instagram.com/bikram_keshari_lenka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bikram_keshari_lenka/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@CODINGCAPTAIN143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="coding captain" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@bikramlenka98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bikramlenka98" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bikramlenka98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@bikramlenka98" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/bikram_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bikram_123" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/bikram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="bikram" height="30" width="40" /></a>
 </p>
