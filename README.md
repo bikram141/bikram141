@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 📝 I regularly write articles on [https://www.codingcaptain.in/](https://www.codingcaptain.in/)
+- 📝 I regularly write articles on [https://www.codementrix.in/](https://www.codementrix.in/)
 
 - 💬 Ask me about **Laravel,corephp,MySql,AWS**
 
